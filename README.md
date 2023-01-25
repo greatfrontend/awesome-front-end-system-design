@@ -168,6 +168,9 @@ _Contributions welcome_
 
 - Guides
   - [[Front-End System Design] - Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
+- Case Studies
+  - [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
+  - [How YouTube improved video performance with the Media Capabilities API](https://web.dev/youtube-media-capabilities/)
 
 ### Collaborative Spreadsheet
 
