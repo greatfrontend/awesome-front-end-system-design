@@ -4,10 +4,13 @@ Front end system design resources are rare. Here's a curated list of awesome res
 
 ## General
 
-- [GreatFrontEnd's Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
-  - [RADIO Framework for Front End System Design](https://www.greatfrontend.com/system-design/framework)
-- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/front-end-system-design/)
-- [Frontend system design interviews - the definitive guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/)
+- Websites
+  - [GreatFrontEnd's Front End System Design Guidebook](https://www.greatfrontend.com/system-design)
+    - [RADIO Framework for Front End System Design](https://www.greatfrontend.com/system-design/framework)
+  - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/front-end-system-design/)
+  - [Frontend system design interviews - the definitive guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/)
+- YouTube
+  - [Front-End Engineer (makes content on Front End System Design)](https://www.youtube.com/@FrontEndEngineer)
 
 ## Applications
 
@@ -15,7 +18,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
 
 _Examples: [facebook.com](https://www.facebook.com/), [twitter.com](https://www.twitter.com/), [reddit.com](https://www.reddit.com/), [quora.com](https://www.quora.com/)_
 
-- Primers
+- Guides
   - [GreatFrontEnd's News Feed System Design Solution](https://www.greatfrontend.com/questions/system-design/news-feed-facebook)
   - [[Front End System Design] - Facebook News Feed](https://www.youtube.com/watch?v=5vyKhm2NTfw)
 - Case Studies
@@ -39,7 +42,7 @@ _Examples: [facebook.com](https://www.facebook.com/), [twitter.com](https://www.
 
 _Examples: [amazon.com](https://www.amazon.com), [ebay.com](https://www.ebay.com), [walmart.com](https://www.walmart.com), [flipkart.com](https://www.flipkart.com)_
 
-- Primers
+- Guides
   - [GreatFrontEnd's E-Commerce Site System Design Solution](https://www.greatfrontend.com/questions/system-design/e-commerce-amazon) (Paid)
 - Case Studies
   - eBay
@@ -64,7 +67,7 @@ _Examples: [amazon.com](https://www.amazon.com), [ebay.com](https://www.ebay.com
 
 _Examples: [instagram.com](https://www.instagram.com), [flickr.com](https://www.flickr.com)_
 
-- Primers
+- Guides
   - [GreatFrontEnd's Photo Sharing System Design Solution](https://www.greatfrontend.com/questions/system-design/photo-sharing-instagram) (Paid)
 - Case Studies
   - Instagram
@@ -81,7 +84,7 @@ _Examples: [instagram.com](https://www.instagram.com), [flickr.com](https://www.
 
 _Examples: [Messenger](https://www.messenger.com), [WhatsApp Web](https://www.whatsapp.com), [Slack](https://www.slack.com), [Discord](https://www.discord.com), [Telegram](https://www.telegram.org)_
 
-- Primers
+- Guides
   - [GreatFrontEnd's Chat App System Design Solution](https://www.greatfrontend.com/questions/system-design/chat-application-messenger) (Paid)
   - [[Front-End System Design] - Chat application](https://www.youtube.com/watch?v=LEaiGjffLEs)
 - Case Studies
@@ -115,8 +118,8 @@ _Examples: [Messenger](https://www.messenger.com), [WhatsApp Web](https://www.wh
 
 _Examples: [airbnb.com](https://airbnb.com), [booking.com](https://www.booking.com), [expedia.com](https://www.expedia.com), [tripadvisor.com](https://www.tripadvisor.com)_
 
-- Primers
-  - [GreatFrontEnd's Travel Booking System Design Solution](https://www.greatfrontend.com/questions/system-design/travel-booking-airbnb)
+- Guides
+  - [GreatFrontEnd's Travel Booking System Design Solution](https://www.greatfrontend.com/questions/system-design/travel-booking-airbnb) (Paid)
 - Case Studies
   - [Rearchitecting Airbnb's Frontend | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
   - [Building a Faster Web Experience with the postTask Scheduler | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
@@ -158,24 +161,24 @@ _Contributions welcome_
 
 ### Pinterest
 
-- Primers
+- Guides
   - [[Front End System Design] - Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
 
 ### Video Streaming (e.g. YouTube)
 
-- Primers
+- Guides
   - [[Front-End System Design] - Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
 
 ### Collaborative Spreadsheet
 
-- Primers
+- Guides
   - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
 
 ## User Interface Components
 
 ### Autocomplete/Typeahead
 
-- Primers
+- Guides
   - [GreatFrontEnd's Autocomplete Design Solution](https://www.greatfrontend.com/questions/system-design/autocomplete)
   - [[Front-End System Design] - Typeahead Widget](https://www.youtube.com/watch?v=9aOXGE7wAZo)
 - Case Studies
@@ -187,7 +190,7 @@ _Contributions welcome_
 
 ### Image Carousel
 
-- Primers
+- Guides
   - [GreatFrontEnd's Image Carousel Design Solution](https://www.greatfrontend.com/questions/system-design/image-carousel) (Paid)
 - Case Studies
   - [Building a Faster Web Experience with the postTask Scheduler | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
@@ -210,7 +213,7 @@ _Contributions welcome_
 
 ### Poll Widget
 
-- Primers
+- Guides
   - [[Front-End System Design] - Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 
 ## Miscellaneous
@@ -222,7 +225,7 @@ _Contributions welcome_
 
 _Examples: [foo.com](https://www.foo.com), [bar.com](https://www.bar.com)_
 
-- Primers
+- Guides
 - Case Studies
 - Resources
 ```
