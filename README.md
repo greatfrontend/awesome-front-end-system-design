@@ -1,6 +1,6 @@
 # Awesome Front End System Design
 
-Front end system design resources are hard to find, good ones are even rarer. Here's a curated list of awesome resources of front end system design resources, great for interview preparation or general learning.
+Front end system design resources are rare. Here's a curated list of awesome resources of front end system design resources, great for interview preparation or general learning.
 
 ## General
 
@@ -208,6 +208,17 @@ _Contributions welcome_
   - [GreatFrontEnd's Dropdown Menu Design Solution](https://www.greatfrontend.com/questions/system-design/dropdown-menu) (Paid)
 - Tutorials
   - [How to Build a Dropdown Menu with JavaScript](https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/)
+- Accessibility
+  - [Menu Button Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/menubutton/)
+  - [Menu Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/menu/)
+- Examples
+  - Themed
+    - [Dropdowns · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/components/dropdowns)
+    - [React Menu component - Material UI](https://mui.com/material-ui/react-menu/)
+  - Headless
+    - [Dropdown Menu — Radix UI](https://www.radix-ui.com/docs/primitives/components/dropdown-menu)
+    - [Menu Button — Reach UI](https://reach.tech/menu-button)
+    - [Menu (Dropdown) - Headless UI](https://headlessui.com/react/menu)
 
 ### Tooltip/Popover
 
@@ -234,4 +245,15 @@ _Examples: [foo.com](https://www.foo.com), [bar.com](https://www.bar.com)_
 - Guides
 - Case Studies
 - Resources
+```
+
+```md
+<!-- Template for new UI components. -->
+
+## {UI Component Name}
+
+- Guides
+- Tutorials
+- Accessibility
+- Examples
 ```
