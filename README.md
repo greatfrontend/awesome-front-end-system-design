@@ -1,6 +1,6 @@
 # Awesome Front End System Design
 
-Front end system design resources are rare. Here's a curated list of awesome resources of front end system design resources, great for interview preparation or general learning.
+Front end system design resources are hard to find, good ones are even rarer. Here's a curated list of awesome resources of front end system design resources, great for interview preparation or general learning.
 
 ## General
 
@@ -202,15 +202,18 @@ _Contributions welcome_
   - [Designing A Perfect Carousel UX](https://www.smashingmagazine.com/2022/04/designing-better-carousel-ux/)
   - [A Content Slider](https://inclusive-components.design/a-content-slider/)
 
-### Modal
+### Dropdown Menu
 
-_Contributions welcome_
-
-### Dropdown
-
-_Contributions welcome_
+- Guides
+  - [GreatFrontEnd's Dropdown Menu Design Solution](https://www.greatfrontend.com/questions/system-design/dropdown-menu) (Paid)
+- Tutorials
+  - [How to Build a Dropdown Menu with JavaScript](https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/)
 
 ### Tooltip/Popover
+
+_Contributions welcome_
+
+### Modal
 
 _Contributions welcome_
 
