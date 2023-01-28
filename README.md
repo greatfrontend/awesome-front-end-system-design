@@ -220,18 +220,31 @@ _Contributions welcome_
     - [Menu Button — Reach UI](https://reach.tech/menu-button)
     - [Menu (Dropdown) - Headless UI](https://headlessui.com/react/menu)
 
-### Tooltip/Popover
-
-_Contributions welcome_
-
 ### Modal
 
-_Contributions welcome_
+- Tutorials
+  - [A CSS Approach to Trap Focus Inside of an Element](https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/)
+- Accessibility
+  - [Dialog (Modal) Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/dialogmodal/)
+- Resources
+  - [createPortal · React](https://beta.reactjs.org/reference/react-dom/createPortal)
+- Examples
+  - Themed
+    - [Modal · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/components/modal)
+    - [React Modal component - Material UI](https://mui.com/material-ui/react-modal/)
+  - Headless
+    - [Dialog — Radix UI](https://www.radix-ui.com/docs/primitives/components/dialog)
+    - [Dialog (Modal) — Reach UI](https://reach.tech/dialog)
+    - [Dialog (Modal) - Headless UI](https://headlessui.com/react/dialog)
 
 ### Poll Widget
 
 - Guides
   - [[Front-End System Design] - Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
+
+### Tooltip/Popover
+
+_Contributions welcome_
 
 ## Miscellaneous
 
