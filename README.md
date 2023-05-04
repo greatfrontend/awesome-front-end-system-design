@@ -171,6 +171,8 @@ _Contributions welcome_
 - Case Studies
   - [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
   - [How YouTube improved video performance with the Media Capabilities API](https://web.dev/youtube-media-capabilities/)
+  - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
+  - [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
 
 ### Collaborative Spreadsheet
 
