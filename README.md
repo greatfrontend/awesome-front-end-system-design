@@ -174,10 +174,23 @@ _Contributions welcome_
   - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
   - [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
 
-### Collaborative Spreadsheet
+### Collaborative Editor (e.g. Google Docs)
+
+- Guides
+  - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
+- Case Studies
+  - [What’s different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
+  - [What’s different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
+  - [What’s different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+  - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
+- Examples
+  - [Etherpad](https://github.com/ether/etherpad-lite)
+
+### Collaborative Spreadsheet (e.g. Google Sheets)
 
 - Guides
   - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
+  - [How Does Google Sheets work?](https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c)
 
 ## User Interface Components
 
