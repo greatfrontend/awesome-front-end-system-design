@@ -194,6 +194,10 @@ _Contributions welcome_
 - Books
   - [Spreadsheet Implementation Technology: Basics and Extensions](https://www.amazon.com/Spreadsheet-Implementation-Technology-Basics-Extensions/dp/0262526646)
 
+### Design Tool (e.g. Figma, Excalidraw)
+
+- Case Studies
+  - [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
 
 ## User Interface Components
 
