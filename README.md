@@ -191,6 +191,9 @@ _Contributions welcome_
 - Guides
   - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
   - [How Does Google Sheets work?](https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c)
+- Books
+  - [Spreadsheet Implementation Technology: Basics and Extensions](https://www.amazon.com/Spreadsheet-Implementation-Technology-Basics-Extensions/dp/0262526646)
+
 
 ## User Interface Components
 
