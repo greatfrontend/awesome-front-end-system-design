@@ -104,7 +104,7 @@ _Examples: [Messenger](https://www.messenger.com), [WhatsApp Web](https://www.wh
     - [Launching Instagram Messaging on desktop](https://engineering.fb.com/2022/07/26/web/launching-instagram-messaging-on-desktop/)
   - Slack
     - [Managing Focus Transitions in Slack](https://slack.engineering/managing-focus-transitions-in-slack/)
-    - [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework/)
+    - [Gantry: Slack's Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework/)
     - [Making Slack Faster By Being Lazy](https://slack.engineering/making-slack-faster-by-being-lazy/)
     - [Making Slack Faster By Being Lazy: Part 2](https://slack.engineering/making-slack-faster-by-being-lazy-part-2/)
     - [Getting to Slack faster with incremental boot](https://slack.engineering/getting-to-slack-faster-with-incremental-boot/)
@@ -126,11 +126,11 @@ _Examples: [airbnb.com](https://airbnb.com), [booking.com](https://www.booking.c
   - [Server Rendering, Code Splitting, and Lazy Loading with React Router v4 | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70)
   - [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
   - [Breaking the Monolith — Modular redesign of Agoda.com | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
-  - [Creating Airbnb’s Page Performance Score | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
+  - [Creating Airbnb's Page Performance Score | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
   - [Measuring Web Performance at Airbnb | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f)
   - [Yes I'm Lazy | TripAdvisor Engineering and Product Blog](https://www.tripadvisor.com/engineering/yes-im-lazy/)
   - [React Performance Fixes on Airbnb Listing Pages | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
-  - [MakeMyTrip.com’s new PWA delivers 3X improvement in conversion rates](https://web.dev/make-my-trip/)
+  - [MakeMyTrip.com's new PWA delivers 3X improvement in conversion rates](https://web.dev/make-my-trip/)
   - [Images on the Web: Part 1 — Responsive Images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-the-web-part-1-responsive-images-5dc0066461bd)
   - [Images on the Web: Part 2 — Implementing responsive images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-web-part-2-implementing-responsive-images-ca1d30f533f8)
   - [Expedia's Vrbo prioritizes above-the-fold contents and loads code for it first](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
@@ -151,6 +151,24 @@ _Examples: [airbnb.com](https://airbnb.com), [booking.com](https://www.booking.c
   - [Payment and address form best practices | web.dev](https://web.dev/payment-and-address-form-best-practices/)
   - [Frank's Compulsive Guide to Postal Addresses](http://www.columbia.edu/~fdc/postal/)
 
+### Pinterest
+
+_Examples: [Pinterest](https://www.pinterest.com)_
+
+- Guides
+  - [GreatFrontEnd's Pinterest System Design Solution](https://www.greatfrontend.com/questions/system-design/pinterest) (Paid)
+  - [[Front End System Design] - Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
+  - [Design A Pinterest Layout | FrontEnd System Design Interview Question | Component Design](https://www.youtube.com/watch?v=y92NFsEKc_M)
+- Case Studies
+  - [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+  - [A one year PWA retrospective](https://medium.com/pinterest-engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
+  - [Improving GIF performance on Pinterest](https://medium.com/pinterest-engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
+- Resources
+  - [Gestalt (Pinterest's design system)](https://gestalt.pinterest.systems/)
+  - [Gestalt Masonry component](https://gestalt.pinterest.systems/web/masonry)
+  - [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md)
+
+
 ### Email Client (e.g. Microsoft Outlook)
 
 _Contributions welcome_
@@ -159,10 +177,6 @@ _Contributions welcome_
 
 - [Ola drives mobility for a billion Indians with Progressive Web App](https://web.dev/ola/)
 
-### Pinterest
-
-- Guides
-  - [[Front End System Design] - Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
 
 ### Video Streaming (e.g. YouTube)
 
@@ -179,10 +193,15 @@ _Contributions welcome_
 - Guides
   - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
 - Case Studies
-  - [What’s different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
-  - [What’s different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
-  - [What’s different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+  - [What's different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
+  - [What's different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
+  - [What's different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
   - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
+- Collaborative Editing Technologies
+  - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+  - [Yjs](https://github.com/yjs/yjs): A CRDT implementation in JavaScript
+  - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational tranforms.
+  - [Automerge](https://github.com/automerge/automerge/): Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
 - Examples
   - [Etherpad](https://github.com/ether/etherpad-lite)
 
