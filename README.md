@@ -178,15 +178,36 @@ _Contributions welcome_
 - [Ola drives mobility for a billion Indians with Progressive Web App](https://web.dev/ola/)
 
 
-### Video Streaming (e.g. YouTube)
+### Video Streaming (e.g. YouTube, Netflix)
 
 - Guides
   - [[Front-End System Design] - Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
 - Case Studies
-  - [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/)
-  - [How YouTube improved video performance with the Media Capabilities API](https://web.dev/youtube-media-capabilities/)
-  - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
-  - [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
+  - YouTube
+    - [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/case-studies/better-youtube-web-part1)
+    - [How YouTube improved video performance with the Media Capabilities API](https://web.dev/case-studies/youtube-media-capabilities)
+    - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
+    - [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
+  - Netflix 
+    - [HTML5 Video at Netflix](https://netflixtechblog.com/html5-video-at-netflix-721d1f143979)
+    - [Update on HTML5 Video for Netflix](https://netflixtechblog.com/update-on-html5-video-for-netflix-fbb57e7d7ca0)
+    - [Implementing Japanese Subtitles on Netflix](https://netflixtechblog.com/implementing-japanese-subtitles-on-netflix-c165fbe61989)
+    - [Pseudo Localization @ Netflix](https://netflixtechblog.com/pseudo-localization-netflix-12fff76fbcbe)
+    - [Modernizing the Web Playback UI](https://netflixtechblog.com/modernizing-the-web-playback-ui-1ad2f184a5a0)
+- Resources
+  - [Lazy loading video | Articles | web.dev](https://web.dev/articles/lazy-loading-video)
+  - [<video> and <source> tags | Articles | web.dev](https://web.dev/articles/video-and-source-tags)
+  - [Fast playback with audio and video preload](https://web.dev/articles/fast-playback-with-preload)
+  - [Video | Web Vitals patterns | web.dev](https://web.dev/patterns/web-vitals-patterns/video/video)
+  - [Video and audio | Accessibility | web.dev](https://web.dev/learn/accessibility/video-audio/)
+  - [Adapt video to image serving based on network quality | Articles | web.dev](https://web.dev/articles/codelab-adapt-video-to-image-serving-based-on-network-quality)
+  - [Media Source Extensions | Articles | web.dev](https://web.dev/articles/media-mse-basics)
+  - [Mobile Web Video Playback | Articles | web.dev](https://web.dev/articles/media-mobile-web-video-playback)
+  - [Synchronize audio and video playback on the web | Articles | web.dev](https://web.dev/articles/audio-output-latency)
+  - [<video> elements must have a <track> for captions | Articles | web.dev](https://dequeuniversity.com/rules/axe/4.4/video-caption)
+- Libraries
+  - [Shaka Player](https://github.com/shaka-project/shaka-player)
+  - [Video.js](https://videojs.com/)
 
 ### Collaborative Editor (e.g. Google Docs)
 
