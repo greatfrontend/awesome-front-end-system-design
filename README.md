@@ -327,6 +327,11 @@ _Contributions welcome_
 - Guides
   - [[Front-End System Design] - Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 
+### Star Widget
+
+- Guides
+  - [Front-End System Design - Star Widget](https://www.youtube.com/watch?v=IBm1vsK0vXE)
+
 ### Tooltip/Popover
 
 _Contributions welcome_
