@@ -179,8 +179,6 @@ _Contributions welcome_
 - Guides
   - [Front-End System Design - Uber](https://www.youtube.com/watch?v=ijAoqaNYO0c)
 
-=======
-
 ### Video Streaming (e.g. YouTube, Netflix)
 
 - Guides
