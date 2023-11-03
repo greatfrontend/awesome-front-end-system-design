@@ -168,7 +168,6 @@ _Examples: [Pinterest](https://www.pinterest.com)_
   - [Gestalt Masonry component](https://gestalt.pinterest.systems/web/masonry)
   - [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md)
 
-
 ### Email Client (e.g. Microsoft Outlook)
 
 _Contributions welcome_
@@ -180,6 +179,8 @@ _Contributions welcome_
 - Guides
   - [Front-End System Design - Uber](https://www.youtube.com/watch?v=ijAoqaNYO0c)
 
+=======
+
 ### Video Streaming (e.g. YouTube, Netflix)
 
 - Guides
@@ -190,15 +191,20 @@ _Contributions welcome_
     - [How YouTube improved video performance with the Media Capabilities API](https://web.dev/case-studies/youtube-media-capabilities)
     - [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube)
     - [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
-  - Netflix 
+  - Netflix
     - [HTML5 Video at Netflix](https://netflixtechblog.com/html5-video-at-netflix-721d1f143979)
     - [Update on HTML5 Video for Netflix](https://netflixtechblog.com/update-on-html5-video-for-netflix-fbb57e7d7ca0)
     - [Implementing Japanese Subtitles on Netflix](https://netflixtechblog.com/implementing-japanese-subtitles-on-netflix-c165fbe61989)
     - [Pseudo Localization @ Netflix](https://netflixtechblog.com/pseudo-localization-netflix-12fff76fbcbe)
     - [Modernizing the Web Playback UI](https://netflixtechblog.com/modernizing-the-web-playback-ui-1ad2f184a5a0)
+  - Mux
+    - [How we made Mux Player’s loading feel great](https://www.mux.com/blog/mux-player-lazy-loading-with-blurhash)
+- Foundation
+  - [How video works](https://howvideo.works/)
+  - [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction)
 - Resources
   - [Lazy loading video | Articles | web.dev](https://web.dev/articles/lazy-loading-video)
-  - [<video> and <source> tags | Articles | web.dev](https://web.dev/articles/video-and-source-tags)
+  - [`<video>` and `<source>` tags | Articles | web.dev](https://web.dev/articles/video-and-source-tags)
   - [Fast playback with audio and video preload](https://web.dev/articles/fast-playback-with-preload)
   - [Video | Web Vitals patterns | web.dev](https://web.dev/patterns/web-vitals-patterns/video/video)
   - [Video and audio | Accessibility | web.dev](https://web.dev/learn/accessibility/video-audio/)
@@ -206,10 +212,18 @@ _Contributions welcome_
   - [Media Source Extensions | Articles | web.dev](https://web.dev/articles/media-mse-basics)
   - [Mobile Web Video Playback | Articles | web.dev](https://web.dev/articles/media-mobile-web-video-playback)
   - [Synchronize audio and video playback on the web | Articles | web.dev](https://web.dev/articles/audio-output-latency)
-  - [<video> elements must have a <track> for captions | Articles | web.dev](https://dequeuniversity.com/rules/axe/4.4/video-caption)
+  - [`<video>` elements must have a `<track>` for captions | Articles | web.dev](https://dequeuniversity.com/rules/axe/4.4/video-caption)
+  - [Dynamic Adaptive Streaming over HTTP](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 - Libraries
   - [Shaka Player](https://github.com/shaka-project/shaka-player)
   - [Video.js](https://videojs.com/)
+  - [Clappr](https://github.com/clappr/clappr)
+  - [dash.js](https://reference.dashif.org/dash.js/): a reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
+  - [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
+- Documentation
+  - [Media Capabilities API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API)
+  - [DASH Adaptive Streaming for HTML 5 Video](https://developer.mozilla.org/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video)
+  - [Guide to streaming audio and video](https://developer.mozilla.org/en-US/docs/Web/Media/Streaming)
 
 ### Collaborative Editor (e.g. Google Docs)
 
@@ -240,6 +254,18 @@ _Contributions welcome_
 
 - Case Studies
   - [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
+  - [Photoshop is now on the web!](https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a)
+
+### Video Call (e.g. Zoom, Skype)
+
+- Documentation
+  - [Media Capture and Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API)
+  - [MediaStream Recording API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
+  - [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+- Resources
+  - [Real-Time video is (really!) here. | Mux](https://www.mux.com/blog/real-time-video-is-really-here)
+- Examples
+  - [Meet Mux Meet: an open-source video conferencing app](https://www.mux.com/blog/open-source-video-conferencing-app)
 
 ## User Interface Components
 
@@ -305,6 +331,11 @@ _Contributions welcome_
 
 - Guides
   - [[Front-End System Design] - Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
+
+### Star Widget
+
+- Guides
+  - [Front-End System Design - Star Widget](https://www.youtube.com/watch?v=IBm1vsK0vXE)
 
 ### Tooltip/Popover
 
