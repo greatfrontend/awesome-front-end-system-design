@@ -177,6 +177,8 @@ _Contributions welcome_
 
 - [Ola drives mobility for a billion Indians with Progressive Web App](https://web.dev/ola/)
 
+- Guides
+  - [Front-End System Design - Uber](https://www.youtube.com/watch?v=ijAoqaNYO0c)
 
 ### Video Streaming (e.g. YouTube, Netflix)
 
