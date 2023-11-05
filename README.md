@@ -265,6 +265,11 @@ _Contributions welcome_
 - Examples
   - [Meet Mux Meet: an open-source video conferencing app](https://www.mux.com/blog/open-source-video-conferencing-app)
 
+
+### Audio Streaming clients (e.g. Spotify, Shazam)
+- Guides
+  - [Crafting Frontend: Spotify Playlist — Frontend System Architecture by TK Kinoshita](https://www.iamtk.co/series/crafting-frontend/spotify-playlist-frontend-system-architecture)
+
 ## User Interface Components
 
 ### Autocomplete/Typeahead
