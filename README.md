@@ -182,7 +182,7 @@ _Contributions welcome_
 ### Video Streaming (e.g. YouTube, Netflix)
 
 - Guides
-  - [[Front-End System Design] - Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
+  - [GreatFrontEnd's Video Streaming System Design Solution](https://www.greatfrontend.com/questions/system-design/video-streaming-netflix) (Paid)
 - Case Studies
   - YouTube
     - [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/case-studies/better-youtube-web-part1)
@@ -201,27 +201,52 @@ _Contributions welcome_
   - [How video works](https://howvideo.works/)
   - [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction)
 - Resources
-  - [Lazy loading video | Articles | web.dev](https://web.dev/articles/lazy-loading-video)
-  - [`<video>` and `<source>` tags | Articles | web.dev](https://web.dev/articles/video-and-source-tags)
-  - [Fast playback with audio and video preload](https://web.dev/articles/fast-playback-with-preload)
-  - [Video | Web Vitals patterns | web.dev](https://web.dev/patterns/web-vitals-patterns/video/video)
-  - [Video and audio | Accessibility | web.dev](https://web.dev/learn/accessibility/video-audio/)
-  - [Adapt video to image serving based on network quality | Articles | web.dev](https://web.dev/articles/codelab-adapt-video-to-image-serving-based-on-network-quality)
-  - [Media Source Extensions | Articles | web.dev](https://web.dev/articles/media-mse-basics)
+  - [Media | web.dev](https://web.dev/explore/media)
+    - [`<video>` and `<source>` tags | Articles | web.dev](https://web.dev/articles/video-and-source-tags)
+    - [Fast playback with audio and video preload](https://web.dev/articles/fast-playback-with-preload)
   - [Mobile Web Video Playback | Articles | web.dev](https://web.dev/articles/media-mobile-web-video-playback)
-  - [Synchronize audio and video playback on the web | Articles | web.dev](https://web.dev/articles/audio-output-latency)
-  - [`<video>` elements must have a `<track>` for captions | Articles | web.dev](https://dequeuniversity.com/rules/axe/4.4/video-caption)
-  - [Dynamic Adaptive Streaming over HTTP](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
+  - Streaming
+    - [Media Source Extensions | Articles | web.dev](https://web.dev/articles/media-mse-basics)
+    - [Synchronize audio and video playback on the web | Articles | web.dev](https://web.dev/articles/audio-output-latency)
+    - [Dynamic Adaptive Streaming over HTTP](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
+    - [HTTP Live Streaming](https://developer.apple.com/streaming/)
+  - Performance
+    - [Lazy loading video | Articles | web.dev](https://web.dev/articles/lazy-loading-video)
+  - Accessibility
+    - [Media accessibility | Articles | web.dev](https://web.dev/articles/media-accessibility)
+    - [Video and audio | Accessibility | web.dev](https://web.dev/learn/accessibility/video-audio/)
+    - [`<video>` elements must have a `<track>` for captions | Articles | web.dev](https://dequeuniversity.com/rules/axe/4.4/video-caption)
+- Tutorials
+  - [Building a Media Player Series | Chrome for Developers](https://www.youtube.com/watch?v=--KA2VrPDao&list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J&index=20)
 - Libraries
-  - [Shaka Player](https://github.com/shaka-project/shaka-player)
-  - [Video.js](https://videojs.com/)
-  - [Clappr](https://github.com/clappr/clappr)
-  - [dash.js](https://reference.dashif.org/dash.js/): a reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
+  - [Shaka Player](https://github.com/shaka-project/shaka-player): An open-source JavaScript library for adaptive media that supports DASH and HLS.
+  - [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   - [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
+  - [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
 - Documentation
-  - [Media Capabilities API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API)
-  - [DASH Adaptive Streaming for HTML 5 Video](https://developer.mozilla.org/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video)
-  - [Guide to streaming audio and video](https://developer.mozilla.org/en-US/docs/Web/Media/Streaming)
+  - [`<video>`: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+  - [Guide to streaming audio and video | MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Streaming)
+  - [Media Source API | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
+  - [DASH Adaptive Streaming for HTML 5 Video | MDN](https://developer.mozilla.org/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video)
+  - [Media Capabilities API | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API)
+
+### Video Streaming (e.g. YouTube, Netflix)
+
+- Case Studies
+  - Spotify
+    - [Building the Future of Our Desktop Apps](https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-apps/)
+    - [Building Spotify’s New Web Player](https://engineering.atspotify.com/2019/03/building-spotifys-new-web-player/)
+    - [Thinking of State in a World of URLs](https://engineering.atspotify.com/2017/08/thinking-of-state-in-a-world-of-urls/)
+    - [Web API | Spotify for Developers](https://developer.spotify.com/documentation/web-api)
+  - SoundCloud
+    - [Playback on Web at SoundCloud](https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud)
+    - [Building The Next SoundCloud](https://developers.soundcloud.com/blog/building-the-next-soundcloud) (A little dated, but has ideas that are still relevant considering it was written in 2012)
+    - [API - Guide - SoundCloud Developers](https://developers.soundcloud.com/docs/api/guide)
+  - Resources
+    - [What is Encrypted Media Extensions? | web.dev](https://web.dev/articles/media-eme)
+  - Documentation
+    - [Media Source API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
+    - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 ### Collaborative Editor (e.g. Google Docs)
 
