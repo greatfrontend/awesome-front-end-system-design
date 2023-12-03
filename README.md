@@ -1,4 +1,6 @@
-# Awesome Front End System Design
+<a href="https://www.greatfrontend.com/system-design/" target="_blank">
+  <img src="assets/cover.png" alt="Start reading the Front End System Design Guidebook" />
+</a>
 
 Front end system design resources are rare. Here's a curated list of awesome resources of front end system design resources, great for interview preparation or general learning.
 
