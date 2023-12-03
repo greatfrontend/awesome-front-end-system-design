@@ -232,7 +232,7 @@ _Contributions welcome_
   - [DASH Adaptive Streaming for HTML 5 Video | MDN](https://developer.mozilla.org/en-US/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video)
   - [Media Capabilities API | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capabilities_API)
 
-### Video Streaming (e.g. YouTube, Netflix)
+### Music Streaming (e.g. Spotify, SoundCloud)
 
 - Case Studies
   - Spotify
