@@ -287,6 +287,8 @@ _Contributions welcome_
 
 ### Video Call (e.g. Zoom, Skype)
 
+- Guides
+  - [Front-End System Design - Video Conference](https://www.youtube.com/watch?v=xKyB7x--NKU)
 - Documentation
   - [Media Capture and Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API)
   - [MediaStream Recording API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
