@@ -263,10 +263,10 @@ _Contributions welcome_
   - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
 - Collaborative Editing Technologies
   - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+- Open source
   - [Yjs](https://github.com/yjs/yjs): A CRDT implementation in JavaScript
   - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational tranforms.
   - [Automerge](https://github.com/automerge/automerge/): Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
-- Examples
   - [Etherpad](https://github.com/ether/etherpad-lite)
 
 ### Collaborative Spreadsheet (e.g. Google Sheets)
@@ -280,10 +280,30 @@ _Contributions welcome_
 ### Design Tool (e.g. Figma, Excalidraw)
 
 - Case Studies
-  - [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
-  - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
-  - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
   - [Photoshop is now on the web!](https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a)
+  - Figma
+    - [Keeping Figma fast](https://www.figma.com/blog/keeping-figma-fast/)
+    - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+    - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
+    - [Improving performance with incremental frame loading](https://www.figma.com/blog/incremental-frame-loading/)
+    - [Behind the scenes: international keyboard shortcuts](https://www.figma.com/blog/behind-the-scenes-international-keyboard-shortcuts/)
+    - [Making multiplayer more reliable](https://www.figma.com/blog/making-multiplayer-more-reliable/)
+    - [GraphQL, meet LiveGraph: a real-time data system at scale](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/)
+    - [Under the hood of Figma’s infrastructure: Here’s what goes into powering a web-based design tool](https://www.figma.com/blog/under-the-hood-of-figmas-infrastructure/)
+    - [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
+    - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
+    - [Multiplayer Editing in Figma](https://www.figma.com/blog/multiplayer-editing-in-figma/)
+    - [Building a professional design tool on the web](https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/)
+- Open source
+  - [tldraw](https://github.com/tldraw/tldraw)
+  - [Excalidraw](https://github.com/excalidraw/excalidraw)
+  - [draw.io](https://github.com/jgraph/drawio)
+  - [Mermaid](https://github.com/mermaid-js/mermaid)
+  - [xyflow](https://github.com/xyflow/xyflow)
+  - [React Diagrams](https://github.com/projectstorm/react-diagrams)
+  - [JointJS](https://github.com/clientio/joint)
+  - [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram)
+  - [Penpot](https://github.com/penpot/penpot)
 
 ### Video Call (e.g. Zoom, Skype)
 
@@ -369,6 +389,17 @@ _Contributions welcome_
 ### Tooltip/Popover
 
 _Contributions welcome_
+
+### Design Systems
+
+- Engineering
+  - [The shared language of props](https://www.figma.com/blog/the-shared-language-of-props/)
+  - [How Thumbtack structures their design system](https://www.figma.com/blog/how-thumbtack-structures-their-design-system/)
+- Design
+  - [Design Systems – A design systems publication by Figma](https://www.designsystems.com/)
+  - [Design systems 101: What is a design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
+  - [Design systems 102: How to build your design system](https://www.figma.com/blog/design-systems-102-how-to-build-your-design-system/)
+  - [The Design System Guide](https://thedesignsystem.guide/)
 
 ## Miscellaneous
 
