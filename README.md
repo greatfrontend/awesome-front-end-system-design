@@ -274,6 +274,8 @@ _Contributions welcome_
 - Guides
   - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
   - [How Does Google Sheets work?](https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c)
+- Case Studies
+  - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 - Books
   - [Spreadsheet Implementation Technology: Basics and Extensions](https://www.amazon.com/Spreadsheet-Implementation-Technology-Basics-Extensions/dp/0262526646)
 
@@ -294,6 +296,9 @@ _Contributions welcome_
     - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
     - [Multiplayer Editing in Figma](https://www.figma.com/blog/multiplayer-editing-in-figma/)
     - [Building a professional design tool on the web](https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/)
+  - Atlassian Confluence whiteboards
+    - [Rendering like Butter – a Confluence Whiteboards Story](https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story)
+    - [Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards](https://www.atlassian.com/engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards)
 - Open source
   - [tldraw](https://github.com/tldraw/tldraw)
   - [Excalidraw](https://github.com/excalidraw/excalidraw)
@@ -304,6 +309,7 @@ _Contributions welcome_
   - [JointJS](https://github.com/clientio/joint)
   - [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram)
   - [Penpot](https://github.com/penpot/penpot)
+  - [Craft.js](https://craft.js.org/)
 
 ### Video Call (e.g. Zoom, Skype)
 
@@ -315,6 +321,28 @@ _Contributions welcome_
   - [Real-Time video is (really!) here. | Mux](https://www.mux.com/blog/real-time-video-is-really-here)
 - Examples
   - [Meet Mux Meet: an open-source video conferencing app](https://www.mux.com/blog/open-source-video-conferencing-app)
+
+### Kanban Board (e.g. Trello)
+
+- Case Studies
+  - Trello
+    - [Part 1: Enabling Trello mobile offline](https://www.atlassian.com/engineering/sync-architecture)
+    - [Part 2: Syncing changes](https://www.atlassian.com/engineering/syncing-changes)
+    - [Part 3: Sync failure handling](https://www.atlassian.com/engineering/sync-failure-handling)
+    - [Part 4: The two ID problem](https://www.atlassian.com/engineering/sync-two-id-problem)
+    - [Part 5: Offline attachments](https://www.atlassian.com/engineering/sync-offline-attachments)
+    - [Part 6: Sync is a two-way street](https://www.atlassian.com/engineering/sync-downloads)
+    - [Part 7: Displaying sync state](https://www.atlassian.com/engineering/sync-indicators)
+    - [Colorful and accessible theming in Trello with CSS custom properties](https://www.atlassian.com/engineering/colorful-and-accessible-theming-in-trello)
+    - [A look at Trello: adopting GraphQL and Apollo in a legacy application](https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application)
+
+## Techniques
+
+### Local-first / Offline-sync
+
+- [Are Sync Engines The Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi)
+- [Airplane mode: enabling Trello mobile offline](https://www.atlassian.com/engineering/sync-architecture)
+- [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
 
 ## User Interface Components
 
