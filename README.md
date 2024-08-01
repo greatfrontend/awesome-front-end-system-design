@@ -252,28 +252,45 @@ _Contributions welcome_
 
 ### Collaborative Editor (e.g. Google Docs)
 
-- Guides
-  - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
 - Case Studies
   - [What's different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
   - [What's different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
   - [What's different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+  - [Improved Accessibility in Google Docs and Sites](https://drive.googleblog.com/2011/09/improved-accessibility-in-google-docs.html)
   - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
   - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
   - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
-- Collaborative Editing Technologies
+  - [A Pragmatic Approach to Live Collaboration](https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/)
+- Articles
+  - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
   - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
-- Open source
-  - [Yjs](https://github.com/yjs/yjs): A CRDT implementation in JavaScript
-  - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational tranforms.
-  - [Automerge](https://github.com/automerge/automerge/): Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  - [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
+- Visualizations
+  - [Visualization of OT with a central server](https://operational-transformation.github.io/)
+  - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- Operational transforms
+  - Papers
+    - [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): The first paper introducing operational transforms
+    - [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System](https://dl.acm.org/doi/pdf/10.1145/215585.215706): One of the earliest research papers on operational transforms with a centralized server
+  - SharesJS ecosystem
+    - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational transforms
+    - [ShareDB](https://github.com/share/sharedb): Realtime database backend based on operational transforms. Successor to ShareJS.
+    - [The Plaintext OT Type](https://github.com/ottypes/text): Library for operational transforms on plain text. Used by ShareJS.
+    - [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode): Successor to [text type](https://github.com/ottypes/text) which accounts for unicode code points. Used by ShareJS.
   - [Etherpad](https://github.com/ether/etherpad-lite)
+- CRDTs
+  - [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
+  - [Yjs](https://github.com/yjs/yjs): A CRDT implementation in JavaScript
+  - [Automerge](https://github.com/automerge/automerge/): Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+  - [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
 
 ### Collaborative Spreadsheet (e.g. Google Sheets)
 
 - Guides
   - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
   - [How Does Google Sheets work?](https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c)
+  - [Designing Data Structures for Collaborative Apps](https://mattweidner.com/2022/02/10/collaborative-data-design.html)
 - Case Studies
   - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 - Books
