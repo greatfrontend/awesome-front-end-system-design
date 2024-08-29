@@ -225,6 +225,7 @@ _Contributions welcome_
   - [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   - [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
   - [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
+  - [Vidstack Player](https://www.vidstack.io/): A framework and collection of UI components for building and managing custom media players on the web.
 - Documentation
   - [`<video>`: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
   - [Guide to streaming audio and video | MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Streaming)
@@ -257,6 +258,7 @@ _Contributions welcome_
   - [What's different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
   - [What's different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
   - [Improved Accessibility in Google Docs and Sites](https://drive.googleblog.com/2011/09/improved-accessibility-in-google-docs.html)
+  - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
   - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
   - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
   - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
@@ -265,25 +267,29 @@ _Contributions welcome_
   - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
   - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
   - [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
-- Visualizations
+- Operational Transformations (OTs)
   - [Visualization of OT with a central server](https://operational-transformation.github.io/)
-  - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
-- Operational transforms
   - Papers
-    - [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): The first paper introducing operational transforms
+    - [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
     - [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System](https://dl.acm.org/doi/pdf/10.1145/215585.215706): One of the earliest research papers on operational transforms with a centralized server
   - SharesJS ecosystem
     - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational transforms
     - [ShareDB](https://github.com/share/sharedb): Realtime database backend based on operational transforms. Successor to ShareJS.
     - [The Plaintext OT Type](https://github.com/ottypes/text): Library for operational transforms on plain text. Used by ShareJS.
     - [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode): Successor to [text type](https://github.com/ottypes/text) which accounts for unicode code points. Used by ShareJS.
-  - [Etherpad](https://github.com/ether/etherpad-lite)
-- CRDTs
+  - [Etherpad](https://github.com/ether/etherpad-lite): Project acquired by Google then later released as open source.
+  - [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
+- Conflict-Free Replicated Data Types (CRDTs)
+  - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   - [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
   - [Yjs](https://github.com/yjs/yjs): A CRDT implementation in JavaScript
   - [Automerge](https://github.com/automerge/automerge/): Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
-  - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   - [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
+  - Papers
+    - [Conflict-free Replicated Data Types](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf): One of the first papers that introduced CRDTs.
+    - [CRDTs: Consistency without concurrency control](https://arxiv.org/pdf/0907.0929): Introduction to Treedoc, a shared collaborative document built using CRDTs. Its design, implementation, and performance are discussed.
+- Technologies
+  - [Fluid Framework](https://fluidframework.com/): A collection of client libraries for distributing and synchronizing shared state, built by Microsoft. It can be viewed as a hybrid of operational transformations and CRDTs.
 
 ### Collaborative Spreadsheet (e.g. Google Sheets)
 
@@ -316,17 +322,17 @@ _Contributions welcome_
   - Atlassian Confluence whiteboards
     - [Rendering like Butter – a Confluence Whiteboards Story](https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story)
     - [Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards](https://www.atlassian.com/engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards)
-- Open source
-  - [tldraw](https://github.com/tldraw/tldraw)
-  - [Excalidraw](https://github.com/excalidraw/excalidraw)
-  - [draw.io](https://github.com/jgraph/drawio)
-  - [Mermaid](https://github.com/mermaid-js/mermaid)
-  - [xyflow](https://github.com/xyflow/xyflow)
-  - [React Diagrams](https://github.com/projectstorm/react-diagrams)
-  - [JointJS](https://github.com/clientio/joint)
-  - [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram)
-  - [Penpot](https://github.com/penpot/penpot)
-  - [Craft.js](https://craft.js.org/)
+- Open Source
+  - [tldraw](https://github.com/tldraw/tldraw): A tiny little drawing app and powerful tools for building diagramming applications
+  - [Excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
+  - [draw.io](https://github.com/jgraph/drawio): Diagramming and whiteboarding web application
+  - [Mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  - [xyflow](https://github.com/xyflow/xyflow): Library for building node-based UIs with React
+  - [React Diagrams](https://github.com/projectstorm/react-diagrams): A flow & process orientated diagramming library written in React
+  - [JointJS](https://github.com/clientio/joint): Diagramming library for building interactive diagrams, flowcharts, and other visual representations
+  - [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram): React library for creating diagrams with nodes and edges
+  - [Penpot](https://github.com/penpot/penpot): Open Source design & prototyping platform
+  - [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
 
 ### Video Call (e.g. Zoom, Skype)
 
@@ -338,6 +344,8 @@ _Contributions welcome_
   - [Real-Time video is (really!) here. | Mux](https://www.mux.com/blog/real-time-video-is-really-here)
 - Examples
   - [Meet Mux Meet: an open-source video conferencing app](https://www.mux.com/blog/open-source-video-conferencing-app)
+- Open Source
+  - [Jitsi](https://jitsi.org/)
 
 ### Kanban Board (e.g. Trello)
 
@@ -353,13 +361,31 @@ _Contributions welcome_
     - [Colorful and accessible theming in Trello with CSS custom properties](https://www.atlassian.com/engineering/colorful-and-accessible-theming-in-trello)
     - [A look at Trello: adopting GraphQL and Apollo in a legacy application](https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application)
 
+### Rich Text Editing (e.g. Lexical, Slate.js, Tiptap)
+
+- Case Studies
+  - [Why ContentEditable is Terrible (Or: How the Medium Editor Works)](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480): By Nick Santos of Medium team
+  - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- Talks
+  - [Rethinking Rich Text: A Deep Dive Into the Design of Lexical - Acy Watson](https://www.youtube.com/watch?v=EwoS0dIx_OI)
+  - [001: Intro to Lexical iOS — Lexical iOS Tutorial Series](https://www.youtube.com/watch?v=_maPaQy9jWY)
+- Open Source
+  - [Lexical](https://lexical.dev/)
+  - [Tiptap](https://tiptap.dev/)
+  - [Slate.js](https://docs.slatejs.org/)
+  - [Draft.js](https://draftjs.org/)
+
 ## Techniques
 
 ### Local-first / Offline-sync
 
-- [Are Sync Engines The Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi)
-- [Airplane mode: enabling Trello mobile offline](https://www.atlassian.com/engineering/sync-architecture)
-- [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
+- Articles
+  - [Are Sync Engines The Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi)
+  - [Airplane mode: enabling Trello mobile offline](https://www.atlassian.com/engineering/sync-architecture)
+  - [Database in the Browser, a Spec](https://www.instantdb.com/essays/db_browser)
+  - [A Graph-Based Firebase](https://www.instantdb.com/essays/next_firebase)
+- Websites
+  - [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
 
 ## User Interface Components
 
