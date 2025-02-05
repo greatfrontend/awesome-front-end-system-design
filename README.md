@@ -430,8 +430,10 @@ _Contributions welcome_
     - [Menu Button — Reach UI](https://reach.tech/menu-button)
     - [Menu (Dropdown) - Headless UI](https://headlessui.com/react/menu)
 
-### Modal
+### Modal / Dialog
 
+- Case studies
+  - [Building a Dialog for Reddit Web](https://www.reddit.com/r/RedditEng/comments/1hfp4mj/building_a_dialog_for_reddit_web/)
 - Tutorials
   - [A CSS Approach to Trap Focus Inside of an Element](https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/)
 - Accessibility
@@ -463,9 +465,10 @@ _Contributions welcome_
 
 ### Design Systems
 
-- Engineering
-  - [The shared language of props](https://www.figma.com/blog/the-shared-language-of-props/)
-  - [How Thumbtack structures their design system](https://www.figma.com/blog/how-thumbtack-structures-their-design-system/)
+- Case studies
+  - [Reddit – From Chaos to Cohesion: Reddit's Design System Story](https://www.reddit.com/r/RedditEng/comments/17kxwri/from_chaos_to_cohesion_reddits_design_system_story/)
+  - [Thumbtack - How Thumbtack structures their design system](https://www.figma.com/blog/how-thumbtack-structures-their-design-system/)
+  - [Figma – The shared language of props](https://www.figma.com/blog/the-shared-language-of-props/)
 - Design
   - [Design Systems – A design systems publication by Figma](https://www.designsystems.com/)
   - [Design systems 101: What is a design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
