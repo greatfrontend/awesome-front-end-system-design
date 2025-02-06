@@ -387,6 +387,11 @@ _Contributions welcome_
 - Websites
   - [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
 
+
+### Audio Streaming clients (e.g. Spotify, Shazam)
+- Guides
+  - [Crafting Frontend: Spotify Playlist — Frontend System Architecture by TK Kinoshita](https://www.iamtk.co/series/crafting-frontend/spotify-playlist-frontend-system-architecture)
+
 ## User Interface Components
 
 ### Autocomplete/Typeahead
