@@ -20,7 +20,6 @@ _Examples: [facebook.com](https://www.facebook.com/), [twitter.com](https://www.
 
 - Guides
   - [GreatFrontEnd's News Feed System Design Solution](https://www.greatfrontend.com/questions/system-design/news-feed-facebook)
-  - [[Front End System Design] - Facebook News Feed](https://www.youtube.com/watch?v=5vyKhm2NTfw)
 - Case Studies
   - Facebook
     - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
