@@ -11,8 +11,6 @@ Front end system design resources are rare. Here's a curated list of awesome res
     - [RADIO Framework for Front End System Design](https://www.greatfrontend.com/system-design/framework)
   - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/front-end-system-design/)
   - [Frontend system design interviews - the definitive guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/)
-- YouTube
-  - [Front-End Engineer (makes content on Front End System Design)](https://www.youtube.com/@FrontEndEngineer)
 
 ## Applications
 
@@ -88,7 +86,6 @@ _Examples: [Messenger](https://www.messenger.com), [WhatsApp Web](https://www.wh
 
 - Guides
   - [GreatFrontEnd's Chat App System Design Solution](https://www.greatfrontend.com/questions/system-design/chat-application-messenger) (Paid)
-  - [[Front-End System Design] - Chat application](https://www.youtube.com/watch?v=LEaiGjffLEs)
 - Case Studies
   - Facebook & Messenger
     - [Building Facebook Messenger](https://www.facebook.com/notes/10158791547142200/)
@@ -159,7 +156,6 @@ _Examples: [Pinterest](https://www.pinterest.com)_
 
 - Guides
   - [GreatFrontEnd's Pinterest System Design Solution](https://www.greatfrontend.com/questions/system-design/pinterest) (Paid)
-  - [[Front End System Design] - Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
   - [Design A Pinterest Layout | FrontEnd System Design Interview Question | Component Design](https://www.youtube.com/watch?v=y92NFsEKc_M)
 - Case Studies
   - [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
@@ -294,7 +290,6 @@ _Contributions welcome_
 ### Collaborative Spreadsheet (e.g. Google Sheets)
 
 - Guides
-  - [[Front-End System Design] - Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
   - [How Does Google Sheets work?](https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c)
   - [Designing Data Structures for Collaborative Apps](https://mattweidner.com/2022/02/10/collaborative-data-design.html)
 - Case Studies
@@ -393,7 +388,6 @@ _Contributions welcome_
 
 - Guides
   - [GreatFrontEnd's Autocomplete Design Solution](https://www.greatfrontend.com/questions/system-design/autocomplete)
-  - [[Front-End System Design] - Typeahead Widget](https://www.youtube.com/watch?v=9aOXGE7wAZo)
 - Case Studies
 - Resources
   - [The Life of a Typeahead Query](https://engineering.fb.com/2010/05/17/web/the-life-of-a-typeahead-query/)
@@ -448,11 +442,6 @@ _Contributions welcome_
     - [Dialog — Radix UI](https://www.radix-ui.com/docs/primitives/components/dialog)
     - [Dialog (Modal) — Reach UI](https://reach.tech/dialog)
     - [Dialog (Modal) - Headless UI](https://headlessui.com/react/dialog)
-
-### Poll Widget
-
-- Guides
-  - [[Front-End System Design] - Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 
 ### Star Widget
 
