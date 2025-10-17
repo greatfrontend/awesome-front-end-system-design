@@ -316,6 +316,8 @@ _Contributions welcome_
   - Atlassian Confluence whiteboards
     - [Rendering like Butter – a Confluence Whiteboards Story](https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story)
     - [Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards](https://www.atlassian.com/engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards)
+  - Canva
+    - [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
 - Open Source
   - [tldraw](https://github.com/tldraw/tldraw): A tiny little drawing app and powerful tools for building diagramming applications
   - [Excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
@@ -343,7 +345,7 @@ _Contributions welcome_
 - Open Source
   - [Jitsi](https://jitsi.org/)
 
-### Kanban Board (e.g. Trello)
+### Task Tracking (e.g. Linear, Trello)
 
 - Case Studies
   - Trello
@@ -356,12 +358,16 @@ _Contributions welcome_
     - [Part 7: Displaying sync state](https://www.atlassian.com/engineering/sync-indicators)
     - [Colorful and accessible theming in Trello with CSS custom properties](https://www.atlassian.com/engineering/colorful-and-accessible-theming-in-trello)
     - [A look at Trello: adopting GraphQL and Apollo in a legacy application](https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application)
+  - Linear
+    - [Linear's realtime sync](https://www.youtube.com/live/WxK11RsLqp4?t=2175s)
+    - [Scaling the Linear Sync Engine](https://www.youtube.com/watch?v=Wo2m3jaJixU)
 
 ### Rich Text Editing (e.g. Lexical, Slate.js, Tiptap)
 
 - Case Studies
   - [Why ContentEditable is Terrible (Or: How the Medium Editor Works)](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480): By Nick Santos of Medium team
   - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+  - [Creating the Notion API](https://www.notion.so/blog/creating-the-notion-api)
 - Talks
   - [Rethinking Rich Text: A Deep Dive Into the Design of Lexical - Acy Watson](https://www.youtube.com/watch?v=EwoS0dIx_OI)
   - [001: Intro to Lexical iOS — Lexical iOS Tutorial Series](https://www.youtube.com/watch?v=_maPaQy9jWY)
@@ -380,8 +386,23 @@ _Contributions welcome_
   - [Airplane mode: enabling Trello mobile offline](https://www.atlassian.com/engineering/sync-architecture)
   - [Database in the Browser, a Spec](https://www.instantdb.com/essays/db_browser)
   - [A Graph-Based Firebase](https://www.instantdb.com/essays/next_firebase)
+- Case Studies
+  - Linear
+    - [Linear's realtime sync](https://www.youtube.com/live/WxK11RsLqp4?t=2175s)
+    - [Scaling the Linear Sync Engine](https://www.youtube.com/watch?v=Wo2m3jaJixU)
 - Websites
   - [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
+- Open source
+  - [PouchDB](https://pouchdb.com/)
+  - [RxDB](https://rxdb.info/)
+  - [WatermelonDB](https://watermelondb.dev/)
+  - [Dexie.js](https://dexie.org/)
+  - [TinyBase](https://tinybase.org/)
+  - [InstantDB](https://www.instantdb.com/)
+  - [ElectricSQL](https://electric-sql.com/)
+- Products
+  - [Replicache](https://replicache.dev/)
+  - [Zero](https://zerosync.dev/)
 
 ## User Interface Components
 
