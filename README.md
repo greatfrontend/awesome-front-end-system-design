@@ -381,6 +381,21 @@ _Contributions welcome_
 
 ## Techniques
 
+### Server-driven User Interfaces (SDUI)
+
+- Articles
+  - [Server Driven UI (SDUI): The Necessary Evil for Scalable Mobile Apps](https://medium.com/digia-studio/server-driven-ui-sdui-the-necessary-evil-for-scalable-mobile-apps-80c650a2c8de)
+  - [Introduction to Server-Driven UI](https://joakimkemeny.com/writing/2023-10-18-server-driven-ui-intro)
+  - [Mastering SDUI: A Deep Dive into Server-Driven UI](https://medium.com/androidiots/mastering-sdui-a-deep-dive-into-server-driven-ui-8329ad90ab44)
+- Case Studies
+  - [Airbnb — A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5)
+  - [Faire — Transitioning to server-driven UI](https://craft.faire.com/transitioning-to-server-driven-ui-a76b216ed408)
+  - [Shopify — Implementing Server-Driven UI Architecture on the Shop App](https://shopify.engineering/server-driven-ui-in-shop-app)
+  - [Lyft — The Journey to Server Driven UI At Lyft Bikes and Scooters](https://eng.lyft.com/the-journey-to-server-driven-ui-at-lyft-bikes-and-scooters-c19264a0378e)
+  - [Expedia — Expedia Group Transforms Product Development with Apollo](https://www.apollographql.com/customers/expediagroup)
+- Open Source
+  - [Server-Driven User-Interface (SDUI)](https://github.com/csmets/Server-Driven-UI): A framework example for Server Driven UI (SDUI) that teaches you the best practices to scale
+
 ### Local-first / Offline-sync
 
 - Articles
