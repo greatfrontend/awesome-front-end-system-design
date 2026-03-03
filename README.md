@@ -119,27 +119,33 @@ _Examples: [airbnb.com](https://airbnb.com), [booking.com](https://www.booking.c
 - Guides
   - [GreatFrontEnd's Travel Booking System Design Solution](https://www.greatfrontend.com/questions/system-design/travel-booking-airbnb) (Paid)
 - Case Studies
-  - [Rearchitecting Airbnb's Frontend | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
-  - [Building a Faster Web Experience with the postTask Scheduler | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
-  - [Server Rendering, Code Splitting, and Lazy Loading with React Router v4 | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70)
-  - [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
-  - [Breaking the Monolith — Modular redesign of Agoda.com | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
-  - [Creating Airbnb's Page Performance Score | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
-  - [Measuring Web Performance at Airbnb | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f)
-  - [Yes I'm Lazy | TripAdvisor Engineering and Product Blog](https://www.tripadvisor.com/engineering/yes-im-lazy/)
-  - [React Performance Fixes on Airbnb Listing Pages | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
-  - [MakeMyTrip.com's new PWA delivers 3X improvement in conversion rates](https://web.dev/make-my-trip/)
-  - [Images on the Web: Part 1 — Responsive Images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-the-web-part-1-responsive-images-5dc0066461bd)
-  - [Images on the Web: Part 2 — Implementing responsive images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-web-part-2-implementing-responsive-images-ca1d30f533f8)
-  - [Expedia's Vrbo prioritizes above-the-fold contents and loads code for it first](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
-  - [12 Tips to Improve Client Side Page Performance | Expedia Group Technology](https://medium.com/expedia-group-tech/12-tips-to-improve-client-side-page-performance-88c7bec27933)
-  - [Using Webpack Module Federation to Create an App Shell | Expedia Group Technology](https://medium.com/expedia-group-tech/using-webpack-module-federation-to-share-an-app-shell-7d23633510e)
-  - [Optimizing a Page: Resource Hints, Critical CSS, and Webpack | Expedia Group Technology](https://medium.com/expedia-group-tech/optimize-a-page-resource-hint-critical-css-webpack-c8cc7319fb87)
-  - [Progressive Web Apps with Service Workers | Booking.com Engineering](https://medium.com/booking-com-development/progressive-web-apps-with-service-workers-887e80abf9ef)
-  - [Web Applications: Analyzing Client-Side Performance | Expedia Group Technology](https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b)
-  - [Go Fast or Go Home: The Process of Optimizing for Client Performance](https://medium.com/expedia-group-tech/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
-  - [Building Airbnb's Internationalization Platform | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
-  - [Adding support for Arabic and Hebrew languages on Airbnb | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/adding-support-for-arabic-and-hebrew-languages-on-airbnb-355f35a4e6b7)
+  - Airbnb
+    - [Rearchitecting Airbnb's Frontend | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
+    - [Building a Faster Web Experience with the postTask Scheduler | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91)
+    - [Server Rendering, Code Splitting, and Lazy Loading with React Router v4 | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70)
+    - [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
+    - [Creating Airbnb's Page Performance Score | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
+    - [Measuring Web Performance at Airbnb | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f)
+    - [React Performance Fixes on Airbnb Listing Pages | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+    - [Go Fast or Go Home: The Process of Optimizing for Client Performance](https://medium.com/expedia-group-tech/go-fast-or-go-home-the-process-of-optimizing-for-client-performance-57bb497402e)
+    - [Building Airbnb's Internationalization Platform | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
+    - [Adding support for Arabic and Hebrew languages on Airbnb | The Airbnb Tech Blog](https://medium.com/airbnb-engineering/adding-support-for-arabic-and-hebrew-languages-on-airbnb-355f35a4e6b7)
+  - Expedia
+    - [Images on the Web: Part 1 — Responsive Images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-the-web-part-1-responsive-images-5dc0066461bd)
+    - [Images on the Web: Part 2 — Implementing responsive images | Expedia Group Technology](https://medium.com/expedia-group-tech/images-on-web-part-2-implementing-responsive-images-ca1d30f533f8)
+    - [Expedia's Vrbo prioritizes above-the-fold contents and loads code for it first](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
+    - [12 Tips to Improve Client Side Page Performance | Expedia Group Technology](https://medium.com/expedia-group-tech/12-tips-to-improve-client-side-page-performance-88c7bec27933)
+    - [Using Webpack Module Federation to Create an App Shell | Expedia Group Technology](https://medium.com/expedia-group-tech/using-webpack-module-federation-to-share-an-app-shell-7d23633510e)
+    - [Optimizing a Page: Resource Hints, Critical CSS, and Webpack | Expedia Group Technology](https://medium.com/expedia-group-tech/optimize-a-page-resource-hint-critical-css-webpack-c8cc7319fb87)
+    - [Web Applications: Analyzing Client-Side Performance | Expedia Group Technology](https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b)
+  - Agoda
+    - [Breaking the Monolith — Modular redesign of Agoda.com | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
+  - TripAdvisor
+    - [Yes I'm Lazy | TripAdvisor Engineering and Product Blog](https://www.tripadvisor.com/engineering/yes-im-lazy/)
+  - Booking.com
+    - [Progressive Web Apps with Service Workers | Booking.com Engineering](https://medium.com/booking-com-development/progressive-web-apps-with-service-workers-887e80abf9ef)
+  - Others
+    - [MakeMyTrip.com's new PWA delivers 3X improvement in conversion rates](https://web.dev/make-my-trip/)
 - Resources
   - [Expedia Accessibility Guidelines](https://accessibility.expedia.biz/pages/exagindex)
   - [Dynamic rendering | web.dev](https://developers.google.com/search/docs/crawling-indexing/javascript/dynamic-rendering)
@@ -249,16 +255,20 @@ _Contributions welcome_
 ### Collaborative Editor (e.g. Google Docs)
 
 - Case Studies
-  - [What's different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
-  - [What's different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
-  - [What's different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
-  - [Improved Accessibility in Google Docs and Sites](https://drive.googleblog.com/2011/09/improved-accessibility-in-google-docs.html)
-  - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
-  - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
-  - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
-  - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
-  - [A Pragmatic Approach to Live Collaboration](https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/)
-  - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
+  - Google Docs
+    - [What's different about the new Google Docs: Working together, even apart](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html)
+    - [What's different about the new Google Docs: Conflict resolution](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html)
+    - [What's different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+    - [Improved Accessibility in Google Docs and Sites](https://drive.googleblog.com/2011/09/improved-accessibility-in-google-docs.html)
+  - Figma
+    - [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+    - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
+  - Notion
+    - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+  - Others
+    - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
+    - [A Pragmatic Approach to Live Collaboration](https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/)
+    - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
 - Articles
   - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
   - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
@@ -268,7 +278,7 @@ _Contributions welcome_
   - Papers
     - [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
     - [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System](https://dl.acm.org/doi/pdf/10.1145/215585.215706): One of the earliest research papers on operational transforms with a centralized server
-  - SharesJS ecosystem
+  - ShareJS ecosystem
     - [ShareJS](https://github.com/josephg/sharejs): Server & client library to allow concurrent editing of any kind of content via operational transforms
     - [ShareDB](https://github.com/share/sharedb): Realtime database backend based on operational transforms. Successor to ShareJS.
     - [The Plaintext OT Type](https://github.com/ottypes/text): Library for operational transforms on plain text. Used by ShareJS.
@@ -319,7 +329,9 @@ _Contributions welcome_
     - [Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards](https://www.atlassian.com/engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards)
     - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
   - Canva
+    - [Behind the draw - How Canva's drawing tool works](https://www.canva.dev/blog/engineering/behind-the-draw/)
     - [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
+    - [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 - Open Source
   - [tldraw](https://github.com/tldraw/tldraw): A tiny little drawing app and powerful tools for building diagramming applications
   - [Excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
@@ -367,9 +379,11 @@ _Contributions welcome_
 ### Rich Text Editing (e.g. Lexical, Slate.js, Tiptap)
 
 - Case Studies
-  - [Why ContentEditable is Terrible (Or: How the Medium Editor Works)](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480): By Nick Santos of Medium team
-  - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
-  - [Creating the Notion API](https://www.notion.so/blog/creating-the-notion-api)
+  - Notion
+    - [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+    - [Creating the Notion API](https://www.notion.so/blog/creating-the-notion-api)
+  - Medium
+    - [Why ContentEditable is Terrible (Or: How the Medium Editor Works)](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480): By Nick Santos of Medium team
 - Talks
   - [Rethinking Rich Text: A Deep Dive Into the Design of Lexical - Acy Watson](https://www.youtube.com/watch?v=EwoS0dIx_OI)
   - [001: Intro to Lexical iOS — Lexical iOS Tutorial Series](https://www.youtube.com/watch?v=_maPaQy9jWY)
@@ -379,7 +393,22 @@ _Contributions welcome_
   - [Slate.js](https://docs.slatejs.org/)
   - [Draft.js](https://draftjs.org/)
 
-## Techniques
+## Techniques / Topics
+
+### AI in Frontend
+
+- Case Studies
+  - [Reddit — Query Autocomplete from LLMs](https://www.reddit.com/r/RedditEng/comments/1loewqg/query_autocomplete_from_llms/)
+  - [Medium – Building a ChatGPT Plugin for Medium](https://medium.engineering/building-a-chatgpt-plugin-for-medium-6813b59e4b24)
+  - [Liveblocks — Building an AI copilot inside your Tiptap text editor](https://liveblocks.io/blog/building-an-ai-copilot-inside-your-tiptap-text-editor)
+
+### Internationalization (i18n) / Localization (l10n)
+
+- Case Studies
+  - Canva
+    - [How to design in every language at once](https://www.canva.dev/blog/engineering/how-to-design-in-every-language-at-once/)
+  - Doordash
+    - [Overcoming Localization Challenges for International Expansions](https://careersatdoordash.com/blog/overcoming-localization-internalization-challenges/)
 
 ### Server-driven User Interfaces (SDUI)
 
@@ -407,7 +436,8 @@ _Contributions welcome_
   - Linear
     - [Linear's realtime sync](https://www.youtube.com/live/WxK11RsLqp4?t=2175s)
     - [Scaling the Linear Sync Engine](https://www.youtube.com/watch?v=Wo2m3jaJixU)
-  - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
+  - Others
+    - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
 - Websites
   - [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
 - Open source
