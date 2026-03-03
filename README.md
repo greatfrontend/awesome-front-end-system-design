@@ -258,6 +258,7 @@ _Contributions welcome_
   - [Realtime editing of ordered sequences](https://www.figma.com/blog/realtime-editing-of-ordered-sequences/)
   - [Issues and Experiences in Designing Real-time Collaborative Editing Systems](https://www.youtube.com/watch?v=84zqbXUQIHc)
   - [A Pragmatic Approach to Live Collaboration](https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration/)
+  - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
 - Articles
   - [Operational Transformations as an Algorithm for Automatic Conflict Resolution](https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447)
   - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
@@ -316,6 +317,7 @@ _Contributions welcome_
   - Atlassian Confluence whiteboards
     - [Rendering like Butter – a Confluence Whiteboards Story](https://www.atlassian.com/engineering/rendering-like-butter-a-confluence-whiteboards-story)
     - [Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards](https://www.atlassian.com/engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards)
+    - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
   - Canva
     - [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
 - Open Source
@@ -390,6 +392,7 @@ _Contributions welcome_
   - Linear
     - [Linear's realtime sync](https://www.youtube.com/live/WxK11RsLqp4?t=2175s)
     - [Scaling the Linear Sync Engine](https://www.youtube.com/watch?v=Wo2m3jaJixU)
+  - [Understanding sync engines: How Figma, Linear, and Google Docs work](https://liveblocks.io/blog/understanding-sync-engines-how-figma-linear-and-google-docs-work)
 - Websites
   - [Local-first Software – website dedicated to local-first technologies](https://localfirstweb.dev/)
 - Open source
