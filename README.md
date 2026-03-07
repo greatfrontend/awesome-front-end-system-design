@@ -452,6 +452,11 @@ _Contributions welcome_
   - [Replicache](https://replicache.dev/)
   - [Zero](https://zerosync.dev/)
 
+
+### Audio Streaming clients (e.g. Spotify, Shazam)
+- Guides
+  - [Crafting Frontend: Spotify Playlist — Frontend System Architecture by TK Kinoshita](https://www.iamtk.co/series/crafting-frontend/spotify-playlist-frontend-system-architecture)
+
 ## User Interface Components
 
 ### Autocomplete/Typeahead
