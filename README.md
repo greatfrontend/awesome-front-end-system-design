@@ -533,6 +533,7 @@ _Contributions welcome_
   - [Design systems 101: What is a design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
   - [Design systems 102: How to build your design system](https://www.figma.com/blog/design-systems-102-how-to-build-your-design-system/)
   - [The Design System Guide](https://thedesignsystem.guide/)
+  - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification)
 
 ## Miscellaneous
 
