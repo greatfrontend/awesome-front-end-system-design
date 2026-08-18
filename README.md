@@ -533,6 +533,7 @@ _Contributions welcome_
   - [Design systems 101: What is a design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
   - [Design systems 102: How to build your design system](https://www.figma.com/blog/design-systems-102-how-to-build-your-design-system/)
   - [The Design System Guide](https://thedesignsystem.guide/)
+  - [UIZZE anti-ui-slop](https://uizze.com): Free MIT-licensed skill for grounding AI coding agents in real interface references with a design contract, required states, and a hard finish gate.
 
 ## Miscellaneous
 
