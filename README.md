@@ -24,9 +24,10 @@ _Examples: [facebook.com](https://www.facebook.com/), [twitter.com](https://www.
   - Facebook
     - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
     - [Making Facebook.com accessible to as many people as possible](https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/)
-  - Twitter
-    - [How we built Twitter Lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite)
-    - [Building the new Twitter.com](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingthenewtwitter)
+  - X / Twitter
+    - [Rebuilding the global town square from scratch](https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch)
+    - [Building the new Twitter.com](https://blog.x.com/en/engineering/buildingthenewtwitter)
+    - [How we built Twitter Lite](https://blog.x.com/en/engineering/how-we-built-twitter-lite)
     - [Dissecting Twitter's Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1)
     - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
   - Instagram
